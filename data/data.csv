@@ -1,0 +1,1149 @@
+﻿Participant_ID,Seq_part,Gender,ExpGroup,HerGroup,Age,AoA_SPA,AoA_ENG,LOR,SelfProf,SelfDom,DELE,FofA_Prod,FofA_Comp,Battery,Item,Seq_Item,Average,MainVerb,LF_Main,TF_Main,Syntax_Main,VolScore_Main,SubVerb,LF_Sub,Morpheme,Property,Condition
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,11,48,1,desear,148807,,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP01,6,Male,Heritage,Simultaneous,31,0,0,0.25,34,4,45,10,13,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP02,53,Female,Heritage,Simultaneous,20,0,0,0,32,3,38,12,13,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP03,2,Female,Heritage,Sequential,27,0,3,0,35,4,40,21,22,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP04,23,Female,Heritage,Simultaneous,21,0,0,0.33,37,3,40,15,16,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP05,18,Male,Heritage,Simultaneous,20,0,0,0,27,3,40,12,21,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,8,26,9,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP06,3,Female,Heritage,Simultaneous,26,0,0,1,33,3,49,20,20,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP07,21,Female,Heritage,Sequential,39,0,7,7,27,0,39,11,12,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP08,36,Female,Heritage,Sequential,25,0,5,5,37,4,41,13,11,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP09,35,Female,Heritage,Simultaneous,23,0,0,0.416,24,1,30,12,12,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP10,28,Female,Heritage,Sequential,31,0,4,0,30,1,43,16,16,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP11,26,Female,Heritage,Simultaneous,20,0,3,0,35,5,34,13,13,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP12,30,Male,Heritage,,18,0,7,0,35,4,,19,19,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP13,34,Female,Heritage,Simultaneous,27,0,0,1.33,36,4,42,19,19,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP14,39,Female,Heritage,Simultaneous,20,0,0,0.08,34,4,28,13,16,B,1,50,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP15,41,Male,Heritage,Simultaneous,21,0,0,0.814,27,3,37,11,11,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP16,43,Female,Heritage,Sequential,21,0,3,0.333,40,5,31,18,17,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP17,44,Male,Heritage,Sequential,22,0,4,0,38,6,45,15,15,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP18,46,Female,Heritage,Simultaneous,30,0,4,4.5,31,3,44,16,16,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP19,45,Male,Heritage,Simultaneous,,,,,,,,,,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP20,61,Female,Heritage,Sequential,23,0,4,0.25,35,2,,7,6,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+HSP21,62,Female,Heritage,Simultaneous,18,0,0,0,22,2,42,12,15,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L01,37,Female,L2 Learner,,20,10,0,0,35,3,35,7,7,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,10,5,2,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,15,8,2,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,5,10,2,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,19,13,2,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,9,15,2,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,14,18,2,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,4,20,2,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L02,40,Female,L2 Learner,,18,0,10,0,30,0,26,11,14,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L03,42,Female,L2 Learner,,25,9,0,0,30,,36,5,9,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L04,33,Male,L2 Learner,,25,9,0,1.33,37,0,49,14,16,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L05,47,Male,L2 Learner,,20,14,0,0,31,3,39,10,10,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L06,31,Male,L2 Learner,,27,14,0,3.375,40,4,44,12,12,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L07,38,Male,L2 Learner,,23,10,0,0.33,26,3,35,3,4,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L08,29,Female,L2 Learner,,19,7,0,0,22,1,36,7,5,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L09,20,Female,L2 Learner,,20,8,8,0,33,4,34,11,11,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L10,17,Female,L2 Learner,,34,13,0,2,38,3,45,20,20,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L11,49,Male,L2 Learner,,34,13,0,1,40,10,33,19,19,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L12,27,Female,L2 Learner,,30,14,0,0.583,33,2,43,17,19,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L13,32,Female,L2 Learner,,24,14,0,0.416,40,3,41,8,8,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L14,11,Male,L2 Learner,,20,,0,0,26,2,29,6,6,B,1,50,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L15,1,Male,L2 Learner,,32,14,0,1,35,1,42,15,15,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L16,57,Female,L2 Learner,,52,12,0,0.416,38,0,40,15,16,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L17,56,Female,L2 Learner,,37,14,0,1,29,2,39,5,4,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,10,5,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,5,10,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,9,15,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,4,20,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,18,23,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,8,25,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,3,30,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,17,33,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,11,48,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L18,24,Female,L2 Learner,,18,6,0,0,21,1,25,14,12,B,1,50,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L19,19,Male,L2 Learner,,18,14,0,0,18,0,29,3,3,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L20,48,Female,L2 Learner,,19,11,0,0,33,2,27,11,12,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,7,35,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,2,40,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,6,45,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L21,16,Female,L2 Learner,,20,14,0,0,26,1,29,9,7,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,19,13,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,11,48,1,desear,148807,,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L22,58,Female,L2 Learner,,40,9,0,0,38,3,46,22,22,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,1,1,0,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,6,6,0,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,16,8,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,2,11,0,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,12,13,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,7,16,0,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,18,28,0,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,4,31,0,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,14,33,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,19,38,0,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,5,41,0,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L23,25,Female,L2 Learner,,19,12,0,0,27,0,29,7,6,A,20,48,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L24,9,Male,L2 Learner,,23,12,0,0.75,31,1,46,9,9,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,11,3,0,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,17,18,0,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,3,21,0,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,8,26,0,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,9,36,0,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,10,46,0,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L25,52,Female,L2 Learner,,26,12,0,0.333,37,3,35,5,5,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+L2L26,60,Male,L2 Learner,,25,7,0,1.16,39,1,,10,8,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC01,14,Male,Comparison,,29,0,,26,40,7,47,21,21,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,11,48,1,desear,148807,,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC02,4,Female,Comparison,,28,0,3,22,40,7,48,21,21,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC03,8,Female,Comparison,,55,0,15,34,40,10,49,16,16,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC04,5,Female,Comparison,,30,0,10,2,40,10,50,25,23,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,14,18,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC05,13,Female,Comparison,,41,0,39,39,40,10,45,8,24,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,20,3,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,15,8,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,13,28,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,12,38,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,16,43,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC06,15,Female,Comparison,,34,0,12,12,40,8,46,18,18,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,15,43,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC07,12,Female,Comparison,,25,0,,8,40,6,48,12,10,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,13,23,1,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC08,59,Female,Comparison,,45,0,18,18,40,10,47,13,13,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC09,60,Female,Comparison,,,,,,,,,,,A,1,1,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC09,60,Female,Comparison,,,,,,,,,,,A,11,3,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC09,60,Female,Comparison,,,,,,,,,,,A,6,6,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC09,60,Female,Comparison,,,,,,,,,,,A,16,8,1,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC09,60,Female,Comparison,,,,,,,,,,,A,2,11,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC09,60,Female,Comparison,,,,,,,,,,,A,12,13,1,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC09,60,Female,Comparison,,,,,,,,,,,A,7,16,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC09,60,Female,Comparison,,,,,,,,,,,A,17,18,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC09,60,Female,Comparison,,,,,,,,,,,A,3,21,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC09,60,Female,Comparison,,,,,,,,,,,A,13,23,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC09,60,Female,Comparison,,,,,,,,,,,A,8,26,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC09,60,Female,Comparison,,,,,,,,,,,A,18,28,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC09,60,Female,Comparison,,,,,,,,,,,A,4,31,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC09,60,Female,Comparison,,,,,,,,,,,A,14,33,1,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC09,60,Female,Comparison,,,,,,,,,,,A,9,36,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC09,60,Female,Comparison,,,,,,,,,,,A,19,38,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC09,60,Female,Comparison,,,,,,,,,,,A,5,41,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC09,60,Female,Comparison,,,,,,,,,,,A,15,43,1,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC09,60,Female,Comparison,,,,,,,,,,,A,10,46,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC09,60,Female,Comparison,,,,,,,,,,,A,20,48,1,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,20,3,0,ordenar,65158,Regular,Canonical,,bailar,29935,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,10,5,1,esperar,1409514,Regular,Canonical,,atar,15876,Mood,Subjunctive,B
+SBC10,63,Female,Comparison,,,,,,,,,,,B,15,8,0,conseguir,129144,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,C
+SBC10,63,Female,Comparison,,,,,,,,,,,B,5,10,1,necesitar,593469,Regular,Canonical,,tomar,506707,Mood,Subjunctive,A
+SBC10,63,Female,Comparison,,,,,,,,,,,B,19,13,1,valorar,113028,Regular,Canonical,,prestar,73724,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,9,15,1,necesitar,593469,Regular,Canonical,,prestar,73724,Mood,Subjunctive,B
+SBC10,63,Female,Comparison,,,,,,,,,,,B,14,18,0,ordenar,65158,Regular,Canonical,,tratar,590952,Mood,Subjunctive,C
+SBC10,63,Female,Comparison,,,,,,,,,,,B,4,20,1,querer,1263949,Irregular,Canonical,,tratar,590952,Mood,Subjunctive,A
+SBC10,63,Female,Comparison,,,,,,,,,,,B,18,23,1,desear,148807,Regular,Canonical,,robar,28182,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,8,25,1,permitir,935997,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,B
+SBC10,63,Female,Comparison,,,,,,,,,,,B,13,28,0,valorar,113028,Regular,Canonical,,quedar,947469,Mood,Subjunctive,C
+SBC10,63,Female,Comparison,,,,,,,,,,,B,3,30,1,permitir,935997,Irregular,Canonical,,enviar,766523,Mood,Subjunctive,A
+SBC10,63,Female,Comparison,,,,,,,,,,,B,17,33,1,conseguir,129144,Irregular,Canonical,,atar,15876,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,7,35,1,pedir,432187,Irregular,Canonical,,bailar,29935,Mood,Subjunctive,B
+SBC10,63,Female,Comparison,,,,,,,,,,,B,12,38,0,sugerir,88224,Irregular,Canonical,,dejar,696519,Mood,Subjunctive,C
+SBC10,63,Female,Comparison,,,,,,,,,,,B,2,40,1,pedir,432187,Irregular,Canonical,,quedar,947469,Mood,Subjunctive,A
+SBC10,63,Female,Comparison,,,,,,,,,,,B,16,43,0,sugerir,88224,Irregular,Canonical,,viajar,78141,Mood,Subjunctive,D
+SBC10,63,Female,Comparison,,,,,,,,,,,B,6,45,1,querer,1263949,Irregular,Canonical,,robar,28182,Mood,Subjunctive,B
+SBC10,63,Female,Comparison,,,,,,,,,,,B,11,48,1,desear,148807,Regular,Canonical,,tomar,506707,Mood,Subjunctive,C
+SBC10,63,Female,Comparison,,,,,,,,,,,B,1,50,1,esperar,1409514,Regular,Canonical,,dejar,696519,Mood,Subjunctive,A
+SBC10,63,Female,Comparison,,,,,,,,,,,,,,,,,,,,,,,,
